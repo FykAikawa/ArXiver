@@ -1,4 +1,5 @@
 # ArXiver
+You can download this plugin also in Chrome Web Store(https://chrome.google.com/webstore/detail/arxiv-downloader-with-tit/combnooobaifahhgiidnjjolcmfgkojo?hl=ja)
 Chrome extension which makes you able to download ArXiv's pdf with name<br>
 1.Download files and put in some folder.<br>
 2.In the menu of chrome extension, load the folder as extension.<br>
